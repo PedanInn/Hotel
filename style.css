@@ -1,4 +1,7 @@
-
+html{
+zoom: 110%;
+overflow-x:hidden;
+}
 header{
   position: relative;
   top:0;
@@ -250,4 +253,7 @@ text-align: center;
     color: blue;
     background-color: white;
     opacity: 0.6;
+transition: 0.5s;
+font-size: 22px;
+padding: 3px 20px;
     }
